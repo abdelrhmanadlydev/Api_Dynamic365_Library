@@ -1,9 +1,9 @@
 name: api_dynamic365_library
 description: A Dart library for seamless integration with Microsoft Dynamics 365 APIs using OData and OAuth2 authentication.
-version: 1.0.0
+version: 1.0.2
 # repository: https://github.com/my_org/my_repo
-repository: https://github.com/abdelrhmanMohamedAdly/Dynamic365_Api_Library.git
-homepage: https://github.com/abdelrhmanMohamedAdly/Dynamic365_Api_Library.git
+repository: https://github.com/abdelrhmanadlydev/Api_Dynamic365_Library.git
+homepage: https://github.com/abdelrhmanadlydev/Api_Dynamic365_Library.git
 
 environment:
   sdk: ^3.1.5
