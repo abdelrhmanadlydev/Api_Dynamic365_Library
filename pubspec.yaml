@@ -1,13 +1,15 @@
 name: api_dynamic365_library
-description: A Flutter/Dart helper library for Microsoft Dynamics 365 Finance and Operations OData APIs.
+description: A Dart and Flutter helper library for Microsoft Dynamics 365 Finance and Operations OData APIs.
 version: 3.0.0
+homepage: https://github.com/abdelrhmanadlydev/Api_Dynamic365_Library
+repository: https://github.com/abdelrhmanadlydev/Api_Dynamic365_Library
+issue_tracker: https://github.com/abdelrhmanadlydev/Api_Dynamic365_Library/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   http: ^1.2.2
-
 
   # name: api_dynamic365_library
   # description: A Dart library for seamless integration with Microsoft Dynamics 365 APIs using OData and OAuth2 authentication.
